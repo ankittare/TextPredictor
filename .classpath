@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Ankit/Box Sync/Fall/Cloud/Project4.1/common-lang3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ankit/Box Sync/Fall/Cloud/Project4.1/commons-cli-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ankit/Box Sync/Fall/Cloud/Project4.1/hadoop-common-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ankit/Box Sync/Fall/Cloud/Project4.1/hadoop-mapreduce-client-core-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ankit/Box Sync/Fall/Cloud/Project4.1/hbase-0.94.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
